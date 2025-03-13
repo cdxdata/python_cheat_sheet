@@ -1,7 +1,5 @@
 # Intro to Python
 
-You've learned a lot in this class so far - languages, libraries, frameworks, etc. Today, we're going to start learning another programming language: Python! Learning Python is going to happen more quickly than learning JavaScript. That's because you already know how to program! Now, you simply need to learn a new language. As you work through this unit, keep in mind that many of the concepts are the same as what you have learned so far. The differences will come with the way we write our code and the way the parts of your application will work together.
-
 ## Objectives
 
 By the end of this, developers should be able to:
