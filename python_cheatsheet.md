@@ -430,3 +430,5 @@ comfortable you get with it, the easier it is to "think" in that language.
 - [Python Docs](https://docs.python.org/3/)
 - [Python Beginner Tutorial (Docs)](https://docs.python.org/3/tutorial/index.html)
 - [Python Google Course](https://developers.google.com/edu/python/)
+- [Udacity](https://www.udacity.com/)
+- [Coursera](https://www.coursera.org/learn/learn-to-program)
