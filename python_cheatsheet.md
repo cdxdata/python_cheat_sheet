@@ -137,7 +137,6 @@ Everything in Python is an **object**.
 - By "object" we mean that everything has its own set of properties and methods
 - Not a new concept. Data types in JavaScript had their own properties and
   methods (e.g., `string.length` or `function.bind()`)
-- You will learn more about this when you dive into Python OOP later this week
 
 ### Numbers
 
